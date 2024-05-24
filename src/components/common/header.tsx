@@ -5,6 +5,7 @@ export const Header = function header() {
         <div className="header">
             <div className="header-top">
                 <div className="header-top--horario">...</div>
+                <div className="header-top--redeSociais"><RedesSociais/>></></div>
             </div>
             <div className="header-center">..</div>
             <div className="header-menu">..</div>
