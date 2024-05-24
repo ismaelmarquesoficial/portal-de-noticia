@@ -8,10 +8,13 @@
 }
 .main-left{
     background-color: rgb(238, 255, 0);
+    width: 100%;
 }
 .main-center{
     background-color: brown;
+    width: 100%;
 }
 .main-right{
     background-color: chartreuse;
+    width: 100%;
 }

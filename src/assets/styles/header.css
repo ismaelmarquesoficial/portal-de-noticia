@@ -5,19 +5,22 @@
     flex-direction: column;
     align-items: center;
 }
+
 .header-top{
     background-color: aqua;
-    max-width: 1140px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
 }
 .header-center{
     background-color: blueviolet;
-    max-width: 1140px;
+    width: 100%;
 }
 .header-menu{
     background-color: brown;
-    max-width: 1140px;
+    width: 100%;
 }
 .header-botton{
     background-color: chocolate;
-    max-width: 1140px;
+    width: 100%;
 }
