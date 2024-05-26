@@ -1,7 +1,8 @@
 export const NewLayout = function () {
     return(
-        <>
-            <h1>News</h1>
-        </>
+        <div className="news">
+            <div className="news-img">...</div>
+            <div className="news-descri">...</div>
+        </div>
     )
 }
