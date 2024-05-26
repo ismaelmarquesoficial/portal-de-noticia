@@ -12,17 +12,9 @@ export const Header = function header() {
             </div>
             <div className="header-center">..</div>
             <div className="header-menu">..</div>
-<<<<<<< HEAD
-            <div className="header-botton"><BannerHeader/></div>
-=======
             <div className="header-botton">
-                <div className="header-botton--banner_grid">
-                    <div className="header-botton--banner_grid-1">1</div>
-                    <div className="header-botton--banner_grid-2">2</div>
-                    <div className="header-botton--banner_grid-3">3</div>
-                </div>
+                <BannerHeader/>
             </div>
->>>>>>> dev
         </div>
     );
 };
