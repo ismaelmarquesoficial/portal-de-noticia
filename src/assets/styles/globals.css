@@ -7,10 +7,11 @@
 
 body{
   background-color: rgb(230, 0, 0);
-  height: 100vh;
+  height: 100%;
   width: 100%;
-  max-width: 1140px;
+  max-width: 1330px;
   display: flex;
   flex-direction: column;
+  justify-content: center;
   margin: auto;
 }
