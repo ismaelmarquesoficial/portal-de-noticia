@@ -1,12 +1,7 @@
 import "@/assets/styles/main.css"
-import { NewLayout } from "./new-list"
-import { useState } from "react"
+import { NewLayout } from "./new-list";
 
 export const Main = function main() {
-
-    const [openNew, setOpenNew] = useState(false);
-
-    
     return(
         <div className="main">
             <div className="main-left">
@@ -15,4 +10,4 @@ export const Main = function main() {
             <div className="main-right">...</div>
         </div>
     )
-}
+};
