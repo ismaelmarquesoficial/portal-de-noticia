@@ -1,13 +1,6 @@
-type Props = {
-    id:number
-    title:string;
-    img:string;
-    post:string;
-    link:string;
-    ads:string
-}
+import { OpenNew } from "@/types/type_openNew"
 
-export const openNew = function ({id,title,img,post,link,ads}: Props) {
+export const openNew = function ({id,title,img,post,link,ads}: OpenNew) {
     return(
         <div key={id}>
             <img src={img} alt="" />
