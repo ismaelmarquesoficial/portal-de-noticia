@@ -1,18 +1,96 @@
 [
     {
         "id":1,
+        "category":"Undefined",
+        "data":"Data da publicação",
         "img":"https://www.portaldeencruzilhada.online/uploads/images/2024/05/prefeitura-de-porto-alegre-recebeu-alerta-sobre-risco-de-falha-em-sistema-contra-enchente-em-2018-64a81.png",
         "title":"PREFEITURA DE PORTO ALEGRE RECEBEU ALERTA SOBRE RISCO DE FALHA EM SISTEMA CONTRA ENCHENTE EM 2018",
         "post":"A Prefeitura de Porto Alegre foi notificada em 2018 sobre o risco de falhas no sistema de bombeamento na região central da cidade em caso de cheia do Rio Guaíba acima da cota de inundação. As informações são do jornal Folha de S.Paulo A informação está em um relatório técnico acessado pela publicação.  O documento foi elaborado em setembro daquele ano por funcionários municipais.        A área central de Porto Alegre e outras regiões do Estado enfrentam a        lagamentos há duas semanas devido a intensas chuvas. As bombas        que deveriam drenar a água para o Guaíba não funcionaram adequadamente        de acordo com especialistas"
     },
     {
         "id":2,
+        "category":"Politica",
+        "data":"Data da publicação",
         "img":"https://www.portaldeencruzilhada.online/uploads/images/2024/05/advogada-e-encontrada-morta-apos-20-dias-soterrada-no-rs-59616.png",
         "title":"ADVOGADA É ENCONTRADA MORTA APÓS 20 DIAS SOTERRADA NO RS",
         "post": "A advogada Natália Cobalchini de 27 anos foi encontrada morta nesta segunda-feira (20) após 20 dias soterrada na cidade de Bento Gonçalves A casa da advogada foi atingida por um deslizamento causado pelas fortes  chuvas na Serra Gaúcha no dia 1º de maio Os pais de Natália Artemio Cobalchini 2 anos e Ivonete Cobalchini de 62 também morreram. Os corpos dos dois foram encontrados dois dias após o ocorrido. O falecimento de Natália foi confirmado pelo prefeito de Bento GonçalvesDiogo Segabinazzi nas redes sociais. “A gente vai poder devolver essa pessoa para sua família para que consiga ter um enterro digno e dar essa tranquilidade para essa que a gente perdeu e para sua família que há 20 dias também está numa agonia”         afirmou o político"
     },
     {
         "id":3,
+        "category":"Saúde",
+        "data":"Data da publicação",
+        "img":"https://www.portaldeencruzilhada.online/uploads/images/2024/05/advogada-e-encontrada-morta-apos-20-dias-soterrada-no-rs-59616.png",
+        "title":"3ADVOGADA É ENCONTRADA MORTA APÓS 20 DIAS SOTERRADA NO RS",
+        "post": "A advogada Natália Cobalchini de 27 anos foi encontrada morta nesta segunda-feira (20) após 20 dias soterrada na cidade de Bento Gonçalves A casa da advogada foi atingida por um deslizamento causado pelas fortes  chuvas na Serra Gaúcha no dia 1º de maio Os pais de Natália Artemio Cobalchini 2 anos e Ivonete Cobalchini de 62 também morreram. Os corpos dos dois foram encontrados dois dias após o ocorrido. O falecimento de Natália foi confirmado pelo prefeito de Bento GonçalvesDiogo Segabinazzi nas redes sociais. “A gente vai poder devolver essa pessoa para sua família para que consiga ter um enterro digno e dar essa tranquilidade para essa que a gente perdeu e para sua família que há 20 dias também está numa agonia”         afirmou o político"
+    },
+    {
+        "id":4,
+        "category":"Saúde",
+        "data":"Data da publicação",
+        "img":"https://www.portaldeencruzilhada.online/uploads/images/2024/05/prefeitura-de-porto-alegre-recebeu-alerta-sobre-risco-de-falha-em-sistema-contra-enchente-em-2018-64a81.png",
+        "title":"PREFEITURA DE PORTO ALEGRE RECEBEU ALERTA SOBRE RISCO DE FALHA EM SISTEMA CONTRA ENCHENTE EM 2018",
+        "post":"A Prefeitura de Porto Alegre foi notificada em 2018 sobre o risco de falhas no sistema de bombeamento na região central da cidade em caso de cheia do Rio Guaíba acima da cota de inundação. As informações são do jornal Folha de S.Paulo A informação está em um relatório técnico acessado pela publicação.  O documento foi elaborado em setembro daquele ano por funcionários municipais.        A área central de Porto Alegre e outras regiões do Estado enfrentam a        lagamentos há duas semanas devido a intensas chuvas. As bombas        que deveriam drenar a água para o Guaíba não funcionaram adequadamente        de acordo com especialistas"
+    },
+    {
+        "id":5,
+        "category":"Esporte",
+        "data":"Data da publicação",
+        "img":"https://www.portaldeencruzilhada.online/uploads/images/2024/05/advogada-e-encontrada-morta-apos-20-dias-soterrada-no-rs-59616.png",
+        "title":"ADVOGADA É ENCONTRADA MORTA APÓS 20 DIAS SOTERRADA NO RS",
+        "post": "A advogada Natália Cobalchini de 27 anos foi encontrada morta nesta segunda-feira (20) após 20 dias soterrada na cidade de Bento Gonçalves A casa da advogada foi atingida por um deslizamento causado pelas fortes  chuvas na Serra Gaúcha no dia 1º de maio Os pais de Natália Artemio Cobalchini 2 anos e Ivonete Cobalchini de 62 também morreram. Os corpos dos dois foram encontrados dois dias após o ocorrido. O falecimento de Natália foi confirmado pelo prefeito de Bento GonçalvesDiogo Segabinazzi nas redes sociais. “A gente vai poder devolver essa pessoa para sua família para que consiga ter um enterro digno e dar essa tranquilidade para essa que a gente perdeu e para sua família que há 20 dias também está numa agonia”         afirmou o político"
+    },
+    {
+        "id":6,
+        "category":"Educação",
+        "data":"Data da publicação",
+        "img":"https://www.portaldeencruzilhada.online/uploads/images/2024/05/advogada-e-encontrada-morta-apos-20-dias-soterrada-no-rs-59616.png",
+        "title":"3ADVOGADA É ENCONTRADA MORTA APÓS 20 DIAS SOTERRADA NO RS",
+        "post": "A advogada Natália Cobalchini de 27 anos foi encontrada morta nesta segunda-feira (20) após 20 dias soterrada na cidade de Bento Gonçalves A casa da advogada foi atingida por um deslizamento causado pelas fortes  chuvas na Serra Gaúcha no dia 1º de maio Os pais de Natália Artemio Cobalchini 2 anos e Ivonete Cobalchini de 62 também morreram. Os corpos dos dois foram encontrados dois dias após o ocorrido. O falecimento de Natália foi confirmado pelo prefeito de Bento GonçalvesDiogo Segabinazzi nas redes sociais. “A gente vai poder devolver essa pessoa para sua família para que consiga ter um enterro digno e dar essa tranquilidade para essa que a gente perdeu e para sua família que há 20 dias também está numa agonia”         afirmou o político"
+    },
+    {
+        "id":7,
+        "category":"Undefined",
+        "data":"Data da publicação",
+        "img":"https://www.portaldeencruzilhada.online/uploads/images/2024/05/prefeitura-de-porto-alegre-recebeu-alerta-sobre-risco-de-falha-em-sistema-contra-enchente-em-2018-64a81.png",
+        "title":"PREFEITURA DE PORTO ALEGRE RECEBEU ALERTA SOBRE RISCO DE FALHA EM SISTEMA CONTRA ENCHENTE EM 2018",
+        "post":"A Prefeitura de Porto Alegre foi notificada em 2018 sobre o risco de falhas no sistema de bombeamento na região central da cidade em caso de cheia do Rio Guaíba acima da cota de inundação. As informações são do jornal Folha de S.Paulo A informação está em um relatório técnico acessado pela publicação.  O documento foi elaborado em setembro daquele ano por funcionários municipais.        A área central de Porto Alegre e outras regiões do Estado enfrentam a        lagamentos há duas semanas devido a intensas chuvas. As bombas        que deveriam drenar a água para o Guaíba não funcionaram adequadamente        de acordo com especialistas"
+    },
+    {
+        "id":8,
+        "category":"Politica",
+        "data":"Data da publicação",
+        "img":"https://www.portaldeencruzilhada.online/uploads/images/2024/05/advogada-e-encontrada-morta-apos-20-dias-soterrada-no-rs-59616.png",
+        "title":"ADVOGADA É ENCONTRADA MORTA APÓS 20 DIAS SOTERRADA NO RS",
+        "post": "A advogada Natália Cobalchini de 27 anos foi encontrada morta nesta segunda-feira (20) após 20 dias soterrada na cidade de Bento Gonçalves A casa da advogada foi atingida por um deslizamento causado pelas fortes  chuvas na Serra Gaúcha no dia 1º de maio Os pais de Natália Artemio Cobalchini 2 anos e Ivonete Cobalchini de 62 também morreram. Os corpos dos dois foram encontrados dois dias após o ocorrido. O falecimento de Natália foi confirmado pelo prefeito de Bento GonçalvesDiogo Segabinazzi nas redes sociais. “A gente vai poder devolver essa pessoa para sua família para que consiga ter um enterro digno e dar essa tranquilidade para essa que a gente perdeu e para sua família que há 20 dias também está numa agonia”         afirmou o político"
+    },
+    {
+        "id":9,
+        "category":"Saúde",
+        "data":"Data da publicação",
+        "img":"https://www.portaldeencruzilhada.online/uploads/images/2024/05/advogada-e-encontrada-morta-apos-20-dias-soterrada-no-rs-59616.png",
+        "title":"3ADVOGADA É ENCONTRADA MORTA APÓS 20 DIAS SOTERRADA NO RS",
+        "post": "A advogada Natália Cobalchini de 27 anos foi encontrada morta nesta segunda-feira (20) após 20 dias soterrada na cidade de Bento Gonçalves A casa da advogada foi atingida por um deslizamento causado pelas fortes  chuvas na Serra Gaúcha no dia 1º de maio Os pais de Natália Artemio Cobalchini 2 anos e Ivonete Cobalchini de 62 também morreram. Os corpos dos dois foram encontrados dois dias após o ocorrido. O falecimento de Natália foi confirmado pelo prefeito de Bento GonçalvesDiogo Segabinazzi nas redes sociais. “A gente vai poder devolver essa pessoa para sua família para que consiga ter um enterro digno e dar essa tranquilidade para essa que a gente perdeu e para sua família que há 20 dias também está numa agonia”         afirmou o político"
+    },
+    {
+        "id":10,
+        "category":"Saúde",
+        "data":"Data da publicação",
+        "img":"https://www.portaldeencruzilhada.online/uploads/images/2024/05/prefeitura-de-porto-alegre-recebeu-alerta-sobre-risco-de-falha-em-sistema-contra-enchente-em-2018-64a81.png",
+        "title":"PREFEITURA DE PORTO ALEGRE RECEBEU ALERTA SOBRE RISCO DE FALHA EM SISTEMA CONTRA ENCHENTE EM 2018",
+        "post":"A Prefeitura de Porto Alegre foi notificada em 2018 sobre o risco de falhas no sistema de bombeamento na região central da cidade em caso de cheia do Rio Guaíba acima da cota de inundação. As informações são do jornal Folha de S.Paulo A informação está em um relatório técnico acessado pela publicação.  O documento foi elaborado em setembro daquele ano por funcionários municipais.        A área central de Porto Alegre e outras regiões do Estado enfrentam a        lagamentos há duas semanas devido a intensas chuvas. As bombas        que deveriam drenar a água para o Guaíba não funcionaram adequadamente        de acordo com especialistas"
+    },
+    {
+        "id":11,
+        "category":"Esporte",
+        "data":"Data da publicação",
+        "img":"https://www.portaldeencruzilhada.online/uploads/images/2024/05/advogada-e-encontrada-morta-apos-20-dias-soterrada-no-rs-59616.png",
+        "title":"ADVOGADA É ENCONTRADA MORTA APÓS 20 DIAS SOTERRADA NO RS",
+        "post": "A advogada Natália Cobalchini de 27 anos foi encontrada morta nesta segunda-feira (20) após 20 dias soterrada na cidade de Bento Gonçalves A casa da advogada foi atingida por um deslizamento causado pelas fortes  chuvas na Serra Gaúcha no dia 1º de maio Os pais de Natália Artemio Cobalchini 2 anos e Ivonete Cobalchini de 62 também morreram. Os corpos dos dois foram encontrados dois dias após o ocorrido. O falecimento de Natália foi confirmado pelo prefeito de Bento GonçalvesDiogo Segabinazzi nas redes sociais. “A gente vai poder devolver essa pessoa para sua família para que consiga ter um enterro digno e dar essa tranquilidade para essa que a gente perdeu e para sua família que há 20 dias também está numa agonia”         afirmou o político"
+    },
+    {
+        "id":12,
+        "category":"Educação",
+        "data":"Data da publicação",
         "img":"https://www.portaldeencruzilhada.online/uploads/images/2024/05/advogada-e-encontrada-morta-apos-20-dias-soterrada-no-rs-59616.png",
         "title":"3ADVOGADA É ENCONTRADA MORTA APÓS 20 DIAS SOTERRADA NO RS",
         "post": "A advogada Natália Cobalchini de 27 anos foi encontrada morta nesta segunda-feira (20) após 20 dias soterrada na cidade de Bento Gonçalves A casa da advogada foi atingida por um deslizamento causado pelas fortes  chuvas na Serra Gaúcha no dia 1º de maio Os pais de Natália Artemio Cobalchini 2 anos e Ivonete Cobalchini de 62 também morreram. Os corpos dos dois foram encontrados dois dias após o ocorrido. O falecimento de Natália foi confirmado pelo prefeito de Bento GonçalvesDiogo Segabinazzi nas redes sociais. “A gente vai poder devolver essa pessoa para sua família para que consiga ter um enterro digno e dar essa tranquilidade para essa que a gente perdeu e para sua família que há 20 dias também está numa agonia”         afirmou o político"

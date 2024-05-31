@@ -1,5 +1,6 @@
 import PostList from '@/data/post-list.json';
-import "@/assets/styles/new-list.css"
+import "@/assets/styles/new-list.css";
+
 export const NewLayout: React.FC = function () {
     return(
         <div className="news">
@@ -9,6 +10,7 @@ export const NewLayout: React.FC = function () {
                             {PostList.title}
                         </h1>
                         <img src={PostList.img} alt="" className="new-img"/>
+                        <h6>{PostList.data}</h6>
                         <p className="new-post">{PostList.post}</p>
                     </div>
                 ))}
