@@ -18,7 +18,8 @@
 
 }
 .new-title{
-    color:black
+    color:black;
+    cursor: pointer;
 }
 .new-img{
     width: 60%;
