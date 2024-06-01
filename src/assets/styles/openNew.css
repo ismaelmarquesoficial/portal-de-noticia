@@ -1,8 +1,6 @@
 .openNew-body{
-    position: fixed;
-    margin: auto;
-    width: 500px;
-    height: auto;
-    border: 10px;
-    border-color: black;
+    width: 100%;
+}
+.openNew-body--img{
+    width: 100%;
 }
